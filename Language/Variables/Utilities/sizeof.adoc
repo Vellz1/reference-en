@@ -92,4 +92,4 @@ Note that a properly formatted string ends with the NULL symbol, which has ASCII
 === See also
 
 --
-// SEE ALSO SECTION ENDS
+// lol SEE ALSO SECTION ENDS
